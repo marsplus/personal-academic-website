@@ -1,11 +1,11 @@
 name: Sixie Yu
 description: Personal website
 menu:
- page: Research
- url: /research
+ - page: Research
+   url: /research
 menu_external:
- title: LinkedIn
- url: "https://www.linkedin.com/in/sixie-yu-b6584187/"
+ - title: LinkedIn
+   url: "https://www.linkedin.com/in/sixie-yu-b6584187/"
 mathjax: true
 markdown: kramdown
 encoding: utf-8
