@@ -1,20 +1,21 @@
 ---
 title: "Research"
 summary: "About this page."
-date: 2016-04-13
+date: 2018-02-19
 layout: default
 ---
 
-"Research" introductory paragraph.
 
-## Project One
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.
+##### Conference papers
+- **Sixie Yu**, Yevgeniy Vorobeychik, Scott Alfeld. ["Adversarial Classification on Social Networks"](https://arxiv.org/abs/1801.08159)(**AAMAS 2018**)
 
-## Project Two
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.
 
-## Project Three
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.
+##### Journal papers
+- Yevgeniy Vorobeychik, Zlatko Joveski, **Sixie Yu**. ["Does communication help people coordinate?"](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0170780)(**PloS one 2017**)
 
-## Project Four
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.
+
+##### Workshop papers
+- Qiang Song, **Sixie Yu**, Cong Leng, JiaXiang Wu, Qinghao Hu, Jian Cheng. ["Learning deep features for msr-bing information retrieval challenge"](https://dl.acm.org/citation.cfm?id=2809928) (**ACMMM 2015**)
+
+
+
