@@ -6,6 +6,6 @@ layout: default
 ---
 
 
-## AAMAS 2018 Student Scholarship
+###### AAMAS 2018 Student Scholarship
 
 
