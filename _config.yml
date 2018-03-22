@@ -3,13 +3,12 @@ description: Personal website
 menu:
  - page: Research
    url: /research
- - page: Notes
-   url: /notes
 menu_external:
  - title: LinkedIn
    url: "https://www.linkedin.com/in/sixie-yu-b6584187/"
 mathjax: true
 markdown: kramdown
 encoding: utf-8
-baseurl: "marsplus.github.io"
+# baseurl: "marsplus.github.io"
+baseurl: ""
 locale: en_GB
