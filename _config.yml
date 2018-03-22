@@ -3,6 +3,8 @@ description: Personal website
 menu:
  - page: Research
    url: /research
+ - page: Awards
+   url: /awards
 menu_external:
  - title: LinkedIn
    url: "https://www.linkedin.com/in/sixie-yu-b6584187/"
