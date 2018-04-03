@@ -11,11 +11,11 @@ layout: default
 
 
 ##### Journal papers
-- Yevgeniy Vorobeychik, Zlatko Joveski, **Sixie Yu**. ["Does communication help people coordinate?"](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0170780)(**PloS one 2017**)
+- Yevgeniy Vorobeychik, Zlatko Joveski, **Sixie Yu**. ["Does Communication Help People Coordinate?"](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0170780)(**PloS one 2017**)
 
 
 ##### Workshop papers
-- Qiang Song, **Sixie Yu**, Cong Leng, JiaXiang Wu, Qinghao Hu, Jian Cheng. ["Learning deep features for msr-bing information retrieval challenge"](https://dl.acm.org/citation.cfm?id=2809928) (**ACMMM 2015**)
+- Qiang Song, **Sixie Yu**, Cong Leng, Jiaxiang Wu, Qinghao Hu, Jian Cheng. ["Learning Deep Features for Microsoft-Bing Information Retrieval Challenge"](https://dl.acm.org/citation.cfm?id=2809928) (**ACMMM 2015**)
 
 
 
