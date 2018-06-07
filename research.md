@@ -7,7 +7,7 @@ layout: default
 
 
 ##### Conference papers
-- Liang Tong\*, **Sixie Yu**\*, Scott Alfeld, Yevgeniy Vorobeychik. "Adversarial Regression with Multiple Learners"(**ICML 2018**) (\* Equal Contribution)
+- Liang Tong\*, **Sixie Yu**\*, Scott Alfeld, Yevgeniy Vorobeychik. ["Adversarial Regression with Multiple Learners"](https://arxiv.org/abs/1806.02256)(**ICML 2018**) (\* Equal Contribution)
 
 - **Sixie Yu**, Yevgeniy Vorobeychik, Scott Alfeld. ["Adversarial Classification on Social Networks"](https://arxiv.org/abs/1801.08159)(**AAMAS 2018**)
 
