@@ -17,7 +17,10 @@ layout: default
 
 
 ##### Workshop papers
+- Chen Hajaj, **Sixie Yu**, Zlatko Joveski and Yevgeniy Vorobeychik. "Adversarial Coordination on Social Networks" (**AAMAS 2018**)
+
 - Qiang Song, **Sixie Yu**, Cong Leng, Jiaxiang Wu, Qinghao Hu, Jian Cheng. ["Learning Deep Features for Microsoft-Bing Information Retrieval Challenge"](https://dl.acm.org/citation.cfm?id=2809928) (**ACMMM 2015**)
+
 
 
 
