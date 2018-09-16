@@ -5,6 +5,8 @@ menu:
    url: /research
  - page: Awards
    url: /awards
+ - page: Notes
+   url: /notes
 menu_external:
  - title: LinkedIn
    url: "https://www.linkedin.com/in/sixie-yu-b6584187/"
@@ -14,3 +16,7 @@ encoding: utf-8
 # baseurl: "marsplus.github.io"
 baseurl: ""
 locale: en_GB
+
+sass:
+  sass_dir: css
+  style:    expanded
