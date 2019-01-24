@@ -11,7 +11,7 @@ layout: default
 
 - Chen Hajaj, **Sixie Yu**, Zlatko Joveski, Yevgeniy Vorobeychik ["Adversarial Coordination on Social Networks"](https://arxiv.org/abs/1808.01173) (**AAMAS 2019 Accepted**)
 
-- **Sixie Yu**\*, Liang Tong\*, Scott Alfeld, Yevgeniy Vorobeychik. ["Adversarial Regression with Multiple Learners"](https://arxiv.org/abs/1806.02256)(**ICML 2018 Oral**) (\* Equal Contribution)
+- **Sixie Yu**\*, Liang Tong\*, Scott Alfeld, Yevgeniy Vorobeychik. ["Adversarial Regression with Multiple Learners"](https://arxiv.org/abs/1806.02256)(**ICML 2018 Short Talk**) (\* Equal Contribution)
 
 - **Sixie Yu**, Yevgeniy Vorobeychik, Scott Alfeld. ["Adversarial Classification on Social Networks"](https://arxiv.org/abs/1801.08159)(**AAMAS 2018**)
 
