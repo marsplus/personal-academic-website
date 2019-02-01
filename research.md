@@ -5,8 +5,9 @@ date: 2019-01-26
 layout: default
 ---
 
-
 ##### Conference papers
+- **Sixie Yu**, Yevgeniy Vorobeychik ["Distributionally Robust Removal of Malicious Nodes from Networks"](https://arxiv.org/abs/1901.11463) 
+
 - **Sixie Yu**, Yevgeniy Vorobeychik ["Removing Malicious Nodes from Networks"](https://arxiv.org/abs/1812.11448) (**AAMAS 2019**)[  **[code]**  ](https://github.com/marsplus/RemoveMaliciousNodesFromNetwork)
 
 - Chen Hajaj, **Sixie Yu**, Zlatko Joveski, Yevgeniy Vorobeychik ["Adversarial Coordination on Social Networks"](https://arxiv.org/abs/1808.01173) (**AAMAS 2019**)[  **[code comes soon]** ]()
