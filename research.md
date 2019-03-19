@@ -1,7 +1,7 @@
 ---
 title: "Research"
 summary: "About this page."
-date: 2019-01-26
+date: 2019-03-18
 layout: default
 ---
 
@@ -14,10 +14,10 @@ layout: default
 
 - **Sixie Yu**\*, Liang Tong\*, Scott Alfeld, Yevgeniy Vorobeychik. ["Adversarial Regression with Multiple Learners"](https://arxiv.org/abs/1806.02256)(**ICML 2018 Short Talk**) (\* Equal Contribution)
 
-- **Sixie Yu**, Yevgeniy Vorobeychik, Scott Alfeld. ["Adversarial Classification on Social Networks"](https://arxiv.org/abs/1801.08159)(**AAMAS 2018**)
+- **Sixie Yu**, Yevgeniy Vorobeychik, Scott Alfeld. ["Adversarial Classification on Social Networks"](https://arxiv.org/abs/1801.08159) (**AAMAS 2018**)
 
 ##### Journal papers
-- Yevgeniy Vorobeychik, Zlatko Joveski, **Sixie Yu**. ["Does Communication Help People Coordinate?"](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0170780)(**PLOS ONE 2017**)
+- Yevgeniy Vorobeychik, Zlatko Joveski, **Sixie Yu**. ["Does Communication Help People Coordinate?"](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0170780) (**PLOS ONE 2017**)
 
 
 
