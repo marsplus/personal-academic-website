@@ -5,7 +5,6 @@ date: 2019-04-27
 layout: default
 ---
 
-### Conference papers
 #### 2019
 - **Sixie Yu**, Yevgeniy Vorobeychik ["Distributionally Robust Removal of Malicious Nodes from Networks"](https://arxiv.org/abs/1901.11463) 
 
