@@ -8,7 +8,7 @@ layout: default
 #### 2019
 - **Sixie Yu**, Yevgeniy Vorobeychik ["Distributionally Robust Removal of Malicious Nodes from Networks"](https://arxiv.org/abs/1901.11463) 
 
-- **Sixie Yu**, Yevgeniy Vorobeychik ["Removing Malicious Nodes from Networks"](https://arxiv.org/pdf/1812.11448.pdf) (**AAMAS 2019**)[  **[code]**  ](https://github.com/marsplus/RemoveMaliciousNodesFromNetwork)
+- **Sixie Yu**, Yevgeniy Vorobeychik ["Removing Malicious Nodes from Networks"](https://arxiv.org/pdf/1812.11448.pdf) (**AAMAS 2019**)[  **[code]**  ](https://github.com/marsplus/Remove-Malicious-Nodes-from-Networks)
 
 - Chen Hajaj, **Sixie Yu**, Zlatko Joveski, Yifan Guo, Yevgeniy Vorobeychik ["Adversarial Coordination on Social Networks"](https://dl.acm.org/citation.cfm?id=3331866) (**AAMAS 2019**)[  **[code comes soon]** ]()
 
