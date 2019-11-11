@@ -1,9 +1,12 @@
 ---
 title: "Research"
 summary: "About this page."
-date: 2019-04-27
+date: 2019-11-11
 layout: default
 ---
+#### 2020
+- **Sixie Yu**\*, Kai Zhou\*, P. Jeffrey Brantingham, Yevgeniy Vorobeychik "Computing Equilibria in Binary Networked Public Goods Games" (**Accepted by AAAI 2020**) 
+
 
 #### 2019
 - **Sixie Yu**, Yevgeniy Vorobeychik ["Distributionally Robust Removal of Malicious Nodes from Networks"](https://arxiv.org/abs/1901.11463) 
