@@ -5,7 +5,7 @@ date: 2019-11-11
 layout: default
 ---
 #### 2020
-- **Sixie Yu**\*, Kai Zhou\*, P. Jeffrey Brantingham, Yevgeniy Vorobeychik "Computing Equilibria in Binary Networked Public Goods Games" (**Accepted by AAAI 2020**)  (\* Equal Contribution)
+- **Sixie Yu**\*, Kai Zhou\*, P. Jeffrey Brantingham, Yevgeniy Vorobeychik ["Computing Equilibria in Binary Networked Public Goods Games"](https://arxiv.org/abs/1911.05788) (**Accepted by AAAI 2020**)  (\* Equal Contribution)
 
 
 #### 2019
