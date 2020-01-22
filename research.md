@@ -5,7 +5,7 @@ date: 2019-12-19
 layout: default
 ---
 #### 2020
-- David Kempe, **Sixie Yu**, Yevgeniy Vorobeychik "Inducing Equilibria in Networked Public Goods Games through Network Structure Modification" (**Accepted AAMAS 2020**)
+- David Kempe, **Sixie Yu**, Yevgeniy Vorobeychik "Inducing Equilibria in Networked Public Goods Games through Network Structure Modification" (**AAMAS 2020**)
 
 - **Sixie Yu**\*, Kai Zhou\*, P. Jeffrey Brantingham, Yevgeniy Vorobeychik ["Computing Equilibria in Binary Networked Public Goods Games"](https://arxiv.org/abs/1911.05788) (**AAAI 2020**)  (\* Equal Contribution)
 
