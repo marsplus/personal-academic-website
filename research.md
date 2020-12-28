@@ -1,12 +1,14 @@
 ---
 title: "Research"
 summary: "About this page."
-date: 2019-12-19
+date: 2020-12-27
 layout: default
 ---
-#### 2020
-- **Sixie Yu**, Leonardo Torres,  Scott Alfeld, Tina Eliassi-Rad, Yevgeniy Vorobeychik ["Optimizing Graph Structure for Targeted Diffusion"](https://arxiv.org/abs/2008.05589)
+#### 2021
+- **Sixie Yu**\*, Leonardo Torres\*,  Scott Alfeld, Tina Eliassi-Rad, Yevgeniy Vorobeychik ["Optimizing Graph Structure for Targeted Diffusion"](https://arxiv.org/abs/2008.05589) (**SDM 2021**) (\* Equal Contribution)
 
+
+#### 2020
 - David Kempe, **Sixie Yu**, Yevgeniy Vorobeychik ["Inducing Equilibria in Networked Public Goods Games through Network Structure Modification" ](https://arxiv.org/abs/2002.10627) (**AAMAS 2020**)
 
 - **Sixie Yu**\*, Kai Zhou\*, P. Jeffrey Brantingham, Yevgeniy Vorobeychik ["Computing Equilibria in Binary Networked Public Goods Games"](https://arxiv.org/abs/1911.05788) (**AAAI 2020**)  (\* Equal Contribution)
