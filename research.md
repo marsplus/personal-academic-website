@@ -1,11 +1,11 @@
 ---
 title: "Research"
 summary: "About this page."
-date: 2021-01-20
+date: 2021-01-31
 layout: default
 ---
 #### 2021
-- **Sixie Yu**\*, Leonardo Torres\*,  Scott Alfeld, Tina Eliassi-Rad, Yevgeniy Vorobeychik ["Optimizing Graph Structure for Targeted Diffusion"](https://arxiv.org/abs/2008.05589) (**SDM 2021**) (\* Equal Contribution)
+- **Sixie Yu**\*, Leonardo Torres\*,  Scott Alfeld, Tina Eliassi-Rad, Yevgeniy Vorobeychik ["Optimizing Graph Structure for Targeted Diffusion"](https://arxiv.org/abs/2008.05589) (**SDM 2021**) [**[code]**](https://github.com/marsplus/POTION) (\* Equal Contribution)
 
 
 #### 2020
