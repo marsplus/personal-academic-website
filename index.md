@@ -9,7 +9,7 @@ layout: default
 
 
 
-I am a fouth-year PhD student at [Computer Science and Engineering Department at Washington University in St. Louis](https://cse.wustl.edu/Pages/default.aspx).
+I am a fouth-year PhD candidate at [Computer Science and Engineering Department at Washington University in St. Louis](https://cse.wustl.edu/Pages/default.aspx).
 
 I am fortunate to be advised by [Dr. Vorobeychik](http://vorobeychik.com/).  
 
