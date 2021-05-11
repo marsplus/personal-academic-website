@@ -3,6 +3,8 @@ description: Personal website
 menu:
  - page: Research
    url: /research
+ - page: CV
+   url: /cv
    #- page: Awards
    #url: /awards
    #menu_external:
