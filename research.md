@@ -1,12 +1,13 @@
 ---
 title: "Research"
 summary: "About this page."
-date: 2021-05-03
+date: 2021-05-22
 layout: default
 ---
 #### 2021
 - Chen Hajaj,  Zlatko Joveski, **Sixie Yu**, Yevgeniy Vorobeychik ["Robust coordination in adversarial social networks: From
-human behavior to agent-based modeling"](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C7D1EBF1898FB098EFCD1E4944600BF9/S2050124221000059a.pdf/robust_coordination_in_adversarial_social_networks_from_human_behavior_to_agentbased_modeling.pdf) (**Network Science**) 
+human behavior to agent-based modeling"](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C7D1EBF1898FB098EFCD1E4944600BF9/S2050124221000059a.pdf/robust_coordination_in_adversarial_social_networks_from_human_behavior_to_agentbased_modeling.pdf) (**Network Science**)
+ 
 - **Sixie Yu**, David Kempe, Yevgeniy Vorobeychik ["Altruism Design in Networked Public Goods Games"](https://arxiv.org/abs/2105.00505) (**IJCAI 2021**)
 
 - **Sixie Yu**\*, Leonardo Torres\*,  Scott Alfeld, Tina Eliassi-Rad, Yevgeniy Vorobeychik ["Optimizing Graph Structure for Targeted Diffusion"](https://arxiv.org/abs/2008.05589) (**SDM 2021**) [**[code]**](https://github.com/marsplus/POTION) (\* Equal Contribution)
